@@ -1,4 +1,4 @@
-##nerdcoin
+## nerdcoin
 
 nerdcoin is a game where you "mine nerdcoin"
 
